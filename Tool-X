@@ -1,0 +1,19 @@
+Installation: 
+
+•apt update && apt upgrade 
+•pkg install git
+•git clone https://github.com/rajkumardusad/Tool-X.git
+
+
+Usege:
+
+•cd Tool-X 
+•python Tool-X.py
+
+
+
+
+
+
+
+
